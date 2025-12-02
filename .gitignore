@@ -22,7 +22,8 @@ __pycache__/
 # Virtual environment
 mental_health_env/
 
-# Byte-compiled / optimized / DLL files
+# Byte-compiled / op.\mental_health_env\Scripts\activate
+timized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
